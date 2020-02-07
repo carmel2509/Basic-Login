@@ -1,2 +1,2 @@
-# Basic-Python
-A collection of some personal basic python projects
+# Basic-Login
+A very basic python application for user registration and log in.
